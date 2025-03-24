@@ -163,6 +163,7 @@
 
 - [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `BUSL-1.1` `PHP`
 - [Pancake](https://www.pancakeapp.com/) - Online invoicing, project management, time tracking and proposal software. `⊘ Proprietary` `PHP`
+- [PayRam](https://payram.com) - Empowering high-risk businesses accept secure, no-KYC crypto payments with full ownership, reduced fees, and global reach — free from banks or third-party risks. `⊘ Proprietary`
 
 
 ### Photo Galleries
